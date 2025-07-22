@@ -1,0 +1,154 @@
+.bodyy{
+    background-color: grey;
+
+}
+.header{
+    display: flex;
+    gap: 5px;
+    justify-content: end;
+}
+.dots{
+    width: 20px;
+}
+.usericon{
+    background-color: green;
+    display: flex;
+    border-radius: 60px;
+    font-family: sans-serif;
+    width: 30px;
+    align-items: center;
+    color: white;
+    justify-content: center;
+    padding: 2px;
+}
+.google{
+    display: flex; 
+    font-size: 50px;
+    color: white;
+    font-family:sans-serif;
+    justify-content: center;
+    padding-top: 50px;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px; 
+
+}
+.search1{
+    display:flex;
+    text-align:center;
+    background-color:white;
+    width: 35%;
+    border-radius:30px;
+}
+.voiceandscanner{
+    width: 4%;
+}
+.text{
+    padding: 10px;
+    width: 57%; 
+    padding-top: 10px;
+    margin-top: 10px;
+    border: none;
+    margin-right: 48px; 
+    margin: 0px 32px 0px 37px;
+}
+.app{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding-top: 40px;
+}
+.display{
+    display: flex;
+    justify-content:center;
+    background-color: white;
+}
+.padding{
+     padding: 6px 6px 7px 4px;
+      margin: 0px 8px 0px 1px;
+      border-radius: 40px;
+      background-color: white;
+
+}
+.gmail{
+    width:30px;
+}
+.chatgpt{
+     border-radius: 40px;
+     margin: 0px 1px 2px 0px; 
+     padding: 7px 8px 4px 8px
+}
+.chatwidth{
+    width: 30px;
+}
+.insta{
+    border-radius: 40px;
+    margin: 3px 15px 0px 7px;
+     padding: 7px 8px 4px 11px
+}
+.instawidth{
+    width: 28px;
+}
+.yutube{
+    border-radius: 40px;
+    margin: 0px 1px 2px 0px; 
+    padding: 0px 5px 4px 8px;
+}
+.ytwidth{
+    width: 37px;
+}
+.whatsapp{
+    padding: 8px 0px 7px 1px;
+    border-radius:26px;
+    margin: 0px 6px 0px 11px;
+}
+.whtwidth{
+    width: 37px;
+}
+.flipkart{
+    padding: 4px 2px 3px 2px;
+     border-radius: 25px;
+     margin:0px 1px 2px 4px ;
+}
+.flipwidth{
+    width:34px;
+}
+.shortcut{
+    border-radius: 40px;
+    padding: 5px 6px 11px 5px;
+    margin: 0px 35px 0px 4px;
+}
+.shortwidth{
+    width:29px;
+}
+.customize{
+    display: flex;
+    justify-content:right;
+    margin-left:300px;
+}
+.cutomize1{
+    display: flex;
+    justify-content:right;
+    margin-top: 400px;
+}
+.button{
+    display:flex;
+    width: 175px;
+    height: 40px;
+    background-color:black;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+}
+.pen{
+    width: 40px;
+}
+.customizechrome{
+    margin-left: 2px; 
+    width: 30%; 
+    display: flex;
+    color:white;
+}
